@@ -16,5 +16,3 @@ I'm a Computer Science student with a strong interest in Artificial Intelligence
 - Power BI
 - Git & GitHub
 - Figma
-
-Thanks for visiting my profile!
