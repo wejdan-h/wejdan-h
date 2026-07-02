@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Wejdan Hakami 👋
 
-<!--
-**wejdan-h/wejdan-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Software Development.I enjoy building practical projects that strengthen my technical skills and help me apply what I learn to real-world problems. My repositories include projects in  Data Analysis,And Machine Learning and other areas of Computer Science.
+Currently, I'm expanding my knowledge in AI and Data Analytics while continuously learning new technologies and software development practices.
 
-Here are some ideas to get you started:
+## Technologies & Tools
+- Java
+- C++
+- Python
+- HTML, CSS, JavaScript
+- SQL
+- Power BI
+- Git & GitHub
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile!
